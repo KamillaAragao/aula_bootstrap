@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #99dfe859;
+}
+
+.navbar {
+    background-color: #456469;
+    font-size: 1.3em;
+   
+}
+.quemsomos{
+    padding: 20px;
+    
+}
+img {
+    padding: 17px;
+    
+}
+.rounded-circle {
+    margin: 30px;
+}
+.parceiros{
+    background-color:#456469a9 ;
+    padding: 50px;
+
+}
+.parceiros > h3 {
+    color: white;
+
+}
+
+.h3bot {
+    margin-top: 12px;
+}
+.servicos {
+    padding: 50px;
+}
+.serh3 {
+    margin-bottom: 20px;
+}
+.bg-footer {
+    background-color: #456469;
+    padding: 10px;
+    color: white;
+}
+
